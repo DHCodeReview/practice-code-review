@@ -35,3 +35,10 @@ We are currently suffering from a severe "humor deficit." If you have a joke tha
 3.  Open a **Pull Request** with the title `fix: added missing serotonin`.
 
 **Rules:** Keep it clean, keep it clever, and if it makes you groan, it’s probably perfect.
+
+---
+
+### 🤸 The Second [_Ever_](https://en.wikipedia.org/wiki/Joke) Joke
+
+**What's brown and sticky?**
+> A stick
