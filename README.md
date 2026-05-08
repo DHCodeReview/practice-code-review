@@ -12,6 +12,10 @@ Welcome to the digital breakroom. This repository is dedicated to the world’s 
 ### Maths jokes
 **Did you hear about the mathematician who was afraid of negative numbers?**
 > He'd stop at nothing to avoid them.
+### A fish joke 
+
+**Two fish meet**
+> the first say hy , the second where?
 
 **Why was 6 afraid of 7?**
 > Because 7 ate 9!
