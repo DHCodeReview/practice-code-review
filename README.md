@@ -13,6 +13,16 @@ Welcome to the digital breakroom. This repository is dedicated to the world’s 
 **Did you hear about the mathematician who was afraid of negative numbers?**
 > He'd stop at nothing to avoid them.
 
+**Why was 6 afraid of 7?**
+> Because 7 ate 9!
+
+
+### The Scarecrow Joke
+
+**Why did the scarecrow win an award?**
+
+> Because he was outstanding in his field.
+ 
 ---
 
 ### 🤝 How to Contribute
