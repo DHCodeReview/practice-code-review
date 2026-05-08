@@ -9,6 +9,9 @@ Welcome to the digital breakroom. This repository is dedicated to the world’s 
 **Why don’t programmers like nature?**
 > Because it has too many bugs and the outdoor lighting is way too high-res.
 
+### Maths jokes
+**Did you hear about the mathematician who was afraid of negative numbers?**
+> He'd stop at nothing to avoid them.
 ### A fish joke 
 
 **Two fish meet**
